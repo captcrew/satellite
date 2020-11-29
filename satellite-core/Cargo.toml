@@ -1,0 +1,14 @@
+[package]
+edition = "2018"
+name = "satellite-core"
+version = "0.1.0"
+description = ""
+repository = "https://github.com/captcrew/satellite"
+homepage = "https://captcrew.github.io/satellite"
+authors = ["Captain & Crew <arrrg@captcrew.io>"]
+license = "MIT"
+readme = "../README.md"
+
+[dependencies]
+
+[dev-dependencies]
